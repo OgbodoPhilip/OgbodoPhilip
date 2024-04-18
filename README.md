@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**OgbodoPhilip/OgbodoPhilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Ogbodo Philip
+#### I am a front-end developer using React and React Native
+![I am a front-end developer using React and React Native](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww)
 
-Here are some ideas to get you started:
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS/ JS / REACT / REACT NATIVE / NODE JS / EXPRESS JS / MONGO DB 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
