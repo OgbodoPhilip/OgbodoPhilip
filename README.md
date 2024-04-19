@@ -1,4 +1,4 @@
-(https://github.com/OgbodoPhilip/OgbodoPhilip/blob/main/lautaro-andreani-xkBaqlcqeb4-unsplash.jpg)
+https://github.com/OgbodoPhilip/OgbodoPhilip/blob/main/lautaro-andreani-xkBaqlcqeb4-unsplash.jpg
 
 <h1 align="center">Hello there, My Name is Ogbodo Philip</h1>
 <h3 align="left">I am a Front-End Developer with good knowledge of React and React Native</h3>
