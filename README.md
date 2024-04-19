@@ -1,9 +1,12 @@
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 <h1 align="center">Hello there, My Name is Ogbodo Philip</h1>
 <h3 align="left">I am a Front-End Developer with good knowledge of React and React Native</h3>
 
-- 📫 How to reach me **sirogbodophilip@gmail.com**
 
-- Fun fact **I love working out and boxing**
+📫 How to reach me **sirogbodophilip@gmail.com**
+
+Fun fact **I love working out and boxing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
