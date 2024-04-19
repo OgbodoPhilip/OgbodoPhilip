@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, My Name is Ogbodo Philip</h1>
-<h3 align="center">I am a Front-End Developer with good knowledge of React and React Native</h3>
+<h3 align="left">I am a Front-End Developer with good knowledge of React and React Native</h3>
 
 - 📫 How to reach me **sirogbodophilip@gmail.com**
 
