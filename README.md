@@ -1,5 +1,7 @@
 <h1 align="center">Hello there, My Name is Ogbodo Philip</h1>
-<h3 align="left">I am a Front-End Developer with good knowledge of React and React Native</h3>
+<h2 align="left">I'm an Experienced developer, proficient in React and React Native, bringing over 5 years of expertise in crafting responsive, user-friendly applications across web and mobile platforms. Thrives on React's and React Native challenges and innovations since its inception. Utilizes React's component-based architecture with a problem-solving mindset and keen design eye, ensuring scalable and maintainable codebases. Committed to delivering high-quality solutions, whether solo or collaborating. Eager to contribute to innovative software solutions and excited about the possibilities with React and React Native. Let's build something remarkable together!
+</h2>
+
 
 
 📫 How to reach me **sirogbodophilip@gmail.com**
